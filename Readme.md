@@ -4,5 +4,6 @@
     - Headings
     - Links
     - Div Containers
-    
-    ![Screenshot](screenshot.png)
+
+   
+![Screenshot](screenshot.png)
